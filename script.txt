@@ -2,3 +2,4 @@
    2-from sklearn.model_selection import train_test_spilt 
    3-from sklearn.ensemble import RandomForestClassifier 
    5- model = RandomForestClassifier().fit(X_train, y_train); print("Accuracy:",model.score(X_test,y_test)) >>
+   3-from sklearn.ensemble import RandomForestClassifier >>
