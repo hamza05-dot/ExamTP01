@@ -1,1 +1,3 @@
-<< 3-from sklearn.ensemble import RandomForestClassifier >>
+<< 1-from sklearn.dataset import load_iris
+   2-from sklearn.model_selection import train_test_spilt 
+   3-from sklearn.ensemble import RandomForestClassifier >>
